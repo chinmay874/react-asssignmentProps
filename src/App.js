@@ -1,5 +1,5 @@
 import './App.css';
-import Invitation from './component/invitation';
+import Invitation from './component/invitationn';
 
 
 function App() {
